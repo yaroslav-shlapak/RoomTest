@@ -5,7 +5,7 @@ project.ext {
     minSdkVersionNumber = 21
 
     supportLibraryVersion = "27.1.1"
-    roomVersion = '1.1.0-beta3'
+    roomVersion = '1.0.0'
     retrofitVersion = "2.3.0"
     okHttpVersion = "3.4.1"
     timberVersion = "4.5.1"
