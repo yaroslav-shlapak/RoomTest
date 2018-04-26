@@ -24,7 +24,7 @@ public class User {
     private final String hasAccess;
 
     public User(final int userId,
-                @NonNull
+                //@NonNull
                 final String userName,
                 final String amount,
                 final String hasAccess) {
