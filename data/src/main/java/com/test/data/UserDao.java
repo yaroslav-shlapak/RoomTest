@@ -7,8 +7,8 @@ import android.arch.persistence.room.Query;
 
 //import com.test.domain.userjava.User;
 //import com.test.domain.userkotlin.User;
-import com.test.data.userjava.User;
-//import com.test.data.userkotlin.User;
+//import com.test.data.userjava.User;
+import com.test.data.userkotlin.User;
 
 import io.reactivex.Flowable;
 
