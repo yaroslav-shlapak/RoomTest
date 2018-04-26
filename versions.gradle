@@ -10,7 +10,7 @@ project.ext {
     okHttpVersion = "3.4.1"
     timberVersion = "4.5.1"
     daggerVersion = "2.15"
-    kotlinVersion = "1.2.31"
+    kotlinVersion = "1.2.40"
 
     // tests versions
     junitVersion = '4.12'
